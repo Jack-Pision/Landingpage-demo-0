@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#F0F0F0"/>
+  <path d="M100 140 Q200 120 300 140 L300 200 Q200 220 100 200 Z" fill="none" stroke="#555555" stroke-width="24"/>
+  <path d="M100 140 Q200 120 300 140 L300 200 Q200 220 100 200 Z" fill="none" stroke="#666666" stroke-width="20"/>
+  <path d="M100 140 Q200 120 300 140 L300 200 Q200 220 100 200 Z" fill="none" stroke="#777777" stroke-width="2" stroke-dasharray="4 8"/>
+  <rect x="285" y="155" width="20" height="30" rx="2" fill="#444444"/>
+  <text x="200" y="280" font-family="DM Sans, sans-serif" font-size="14" fill="#888888" text-anchor="middle">Matte Steel Bracelet</text>
+</svg>
