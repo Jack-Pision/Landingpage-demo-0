@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# build output (for static export)
+/dist/
+
 # production
 /build
 
