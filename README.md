@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > Minimal Men's Accessories Portfolio Website
-> 
+>
 > "Made for men who say less, carry more."
 
 ## Overview
@@ -37,10 +37,10 @@ FORGED is an open-source, premium e-commerce portfolio template designed for min
 
 ```bash
 # Clone the repository
-git clone https://github.com/Jack-Pision/Landingpage-demo-0.git
+git clone https://github.com/Jack-Pision/forged-accessories-website.git
 
 # Navigate to project
-cd Landingpage-demo-0
+cd forged-accessories-website
 
 # Install dependencies
 npm install
@@ -76,13 +76,13 @@ Visit `http://localhost:3000`
 
 ## Features
 
-- ✨ GSAP letter-by-letter animations
-- 🛒 Working cart with Zustand state
-- 📱 Fully responsive (mobile-first)
-- 🎯 Product drawer with quick add
-- 🏷️ Category filtering
-- ⚡ Optimized for Vercel edge
-- 🎨 Easy to customize
+- GSAP letter-by-letter animations
+- Working cart with Zustand state
+- Fully responsive (mobile-first)
+- Product drawer with quick add
+- Category filtering
+- Optimized for Vercel edge
+- Easy to customize
 
 ## Project Structure
 
